@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF SYSTEM "http://purl.org/dc/schemas/dcmes-xml-20000714.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description about="http://cdm12345.contentdm.oclc.org/cdm/ref/collection/p12345coll67/id/1">
+    <dc:title>MS1 Test</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>Test; XML for fictional file, split into many OPEX</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>2023</dc:date>
+    <dc:type>Image</dc:type>
+    <dc:format>TIFF</dc:format>
+    <dc:identifier>MS1</dc:identifier>
+    <dc:source>URL</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>MS Demo</dc:relation>
+    <dc:coverage></dc:coverage>
+    <dc:rights></dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://cdm12345.contentdm.oclc.org/cdm/ref/collection/p12345coll67/id/2">
+    <dc:title>MS2 Test</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>Test; XML for fictional file, split into many OPEX</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>2023</dc:date>
+    <dc:type>Image</dc:type>
+    <dc:format>TIFF</dc:format>
+    <dc:identifier>MS2</dc:identifier>
+    <dc:source>URL</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>MS Demo</dc:relation>
+    <dc:coverage></dc:coverage>
+    <dc:rights></dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://cdm12345.contentdm.oclc.org/cdm/ref/collection/p12345coll67/id/3">
+    <dc:title>MS3 Test</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>Test; XML for fictional file, split into many OPEX</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>2023</dc:date>
+    <dc:type>Image</dc:type>
+    <dc:format>TIFF</dc:format>
+    <dc:identifier>MS3</dc:identifier>
+    <dc:source>URL</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>MS Demo</dc:relation>
+    <dc:coverage></dc:coverage>
+    <dc:rights></dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://cdm12345.contentdm.oclc.org/cdm/ref/collection/p12345coll67/id/4">
+    <dc:title>MS4 Test</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject></dc:subject>
+    <dc:description>Test; XML for fictional file, split into many OPEX</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>2023</dc:date>
+    <dc:type>Image</dc:type>
+    <dc:format>TIFF</dc:format>
+    <dc:identifier>MS4</dc:identifier>
+    <dc:source>URL</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>MS Demo</dc:relation>
+    <dc:coverage></dc:coverage>
+    <dc:rights></dc:rights>
+  </rdf:Description>
+</rdf:RDF>
